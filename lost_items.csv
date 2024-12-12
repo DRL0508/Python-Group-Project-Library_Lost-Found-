@@ -1,0 +1,4 @@
+status,name,location,description,reporter,finder,value,unique_id
+Lost,Wallet,Library Room 203,Black leather wallet,Alice,,50,
+Found,Laptop,Library Room 101,Silver laptop,Bob,Alice,800,123e4567-e89b-12d3-a456-426614174000
+Found,Laptop,Library Study Room,Black Dell Laptop with strickeres,Alice,Bob,1000,fc3e5ade-edbf-4224-a1dd-2628100e5e96
